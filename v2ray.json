@@ -29,7 +29,7 @@
     "tag": "api"
   }],
   "log": {
-    "loglevel": "debug",
+    "loglevel": "warning",
     "access": "/var/log/v2ray/access.log",
     "error": "/var/log/v2ray/error.log"
   },
